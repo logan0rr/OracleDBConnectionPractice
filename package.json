@@ -1,0 +1,9 @@
+{
+  "name": "OracleDBConnectionPractice",
+  "version": "1.0.0",
+  "devDependencies": {
+    "oracledb": "^5.3.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
